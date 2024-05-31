@@ -1,5 +1,14 @@
 # Projeto Aliada - Repositório de Concepção
 
+<p align="center">
+  <img src="https://causa-dev-public-images.s3.amazonaws.com/Logo+Aliada+1k.png" width="400px" align="center" alt="Logo do Causa Dev" />
+  <p align="center">
+    Um app focado em ajudar as mulheres a encontrar rotas seguras no ambiente urbano.
+    <br/>
+    ✨ <a href="https://forms.gle/X48Z9TjwirfJU1cm9">Participe da nossa pesquisa</a> ✨
+  </p>
+</p>
+
 ## Bem-vindos ao Repositório Aliada-Conception!
 
 Este é o lar inicial de todas as ideias, pesquisas e planejamentos para o **Projeto Aliada**, uma iniciativa da ONG **Causa Dev** que visa aumentar a segurança das mulheres ao se deslocarem por áreas urbanas através de um aplicativo móvel inovador.
