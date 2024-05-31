@@ -6,7 +6,8 @@
     Um app focado em ajudar as mulheres a encontrar rotas seguras no ambiente urbano.
     <br/>
     ✨ <a href="https://forms.gle/X48Z9TjwirfJU1cm9">Participe da nossa pesquisa</a> ✨
-    ✨ <a href="https://causadev.com.br/?project=aliada">Acesse o site do projeto</a> ✨
+    <br/>
+    🌐 <a href="https://causadev.com.br/?project=aliada">Acesse o site do projeto</a> 🌐
   </p>
 </p>
 
